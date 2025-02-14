@@ -1,0 +1,795 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Downloads\\kursach-client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\loaddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|c:\\users\\andre\\downloads\\kursach-client\\kursach-client\\model\\processactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\processactivitytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\activeprocesstracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\activeprocesstracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\sesssiondtoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\sesssiondtoadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\workersettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\workersettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\workersettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\workersettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\processstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\processstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\adminproccesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\adminproccesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\adminproccesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\adminproccesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\controltrackingsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\controltrackingsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\processdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\processdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\updateuserbyadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\updateuserbyadminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\trackingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\trackingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\sessionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\sessionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\sessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\sessionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\controltrackingsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\controltrackingsettingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\custompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\custompanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\usercontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\usercontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\usercontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\usercontrolform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\usercontrolform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\usercontrolform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\processstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\forms\\processstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\processstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\processstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\httprequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\httprequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\processresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\processresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\processusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\processusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|kursach-client||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\service\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\service\\processservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA83A1-B26C-4A77-A75E-4413A1F83501}|kursach-client\\kursach-client.csproj|solutionrelative:kursach-client\\model\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControlTrackingSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ControlTrackingSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\ControlTrackingSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:27:10.091Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\AdminForm.cs",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAgwGgCAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:33:26.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadData.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\LoadData.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\LoadData.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\LoadData.cs",
+              "RelativeToolTip": "kursach-client\\model\\LoadData.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActiveProcessTracker.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ActiveProcessTracker.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\ActiveProcessTracker.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ActiveProcessTracker.cs*",
+              "RelativeToolTip": "kursach-client\\model\\ActiveProcessTracker.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:49:03.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessActivityTracker.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ProcessActivityTracker.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\ProcessActivityTracker.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ProcessActivityTracker.cs",
+              "RelativeToolTip": "kursach-client\\model\\ProcessActivityTracker.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:48:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SesssionDtoAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SesssionDtoAdmin.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\SesssionDtoAdmin.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SesssionDtoAdmin.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\SesssionDtoAdmin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:54:36.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:54:33.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkerForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\WorkerForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\WorkerForm.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAqwAEBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:17:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\WorkerForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:17:50.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerSettingsForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\WorkerSettingsForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\WorkerSettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:05:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerSettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerSettingsForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\WorkerSettingsForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerSettingsForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\WorkerSettingsForm.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwHgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:10:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProcessStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ProcessStatusForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\ProcessStatusForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ProcessStatusForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\ProcessStatusForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:57:02.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AuthForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AuthForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\AuthForm.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAACUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:24:00.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\RegistrationForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\RegistrationForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:15:32.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AuthForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\AuthForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:17:53.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:17:56.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminProccesStatus.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminProccesStatus.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AdminProccesStatus.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminProccesStatus.cs",
+              "RelativeToolTip": "kursach-client\\forms\\AdminProccesStatus.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAANAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:39:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminProccesStatus.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminProccesStatus.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\AdminProccesStatus.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\AdminProccesStatus.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\AdminProccesStatus.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:23:48.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProcessDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessDTO.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\ProcessDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessDTO.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\ProcessDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:55:49.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UserDto.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:55:38.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateUserByAdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UpdateUserByAdminRequest.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\UpdateUserByAdminRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UpdateUserByAdminRequest.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\UpdateUserByAdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:27:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionDTO.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\SessionDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionDTO.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\SessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:31:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TrackingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\TrackingSettings.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\TrackingSettings.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\TrackingSettings.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\TrackingSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:35:47.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SessionView.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionView.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\SessionView.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionView.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\SessionView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:45:20.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionRequest.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\SessionRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\SessionRequest.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\SessionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:29:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ControlTrackingSettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\ControlTrackingSettingsForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:31:22.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomPanel.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\CustomPanel.cs",
+              "RelativeDocumentMoniker": "kursach-client\\CustomPanel.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\CustomPanel.cs",
+              "RelativeToolTip": "kursach-client\\CustomPanel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:23:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserControlForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\UserControlForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\UserControlForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:38:09.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserControlForm.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\UserControlForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.cs",
+              "RelativeToolTip": "kursach-client\\forms\\UserControlForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAwwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:54:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\AuthService.cs",
+              "RelativeDocumentMoniker": "kursach-client\\service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\AuthService.cs",
+              "RelativeToolTip": "kursach-client\\service\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:45:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Program.cs",
+              "RelativeDocumentMoniker": "kursach-client\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Program.cs",
+              "RelativeToolTip": "kursach-client\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:23:54.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "kursach-client\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "kursach-client\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:51:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "kursach-client\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Settings.settings",
+              "RelativeToolTip": "kursach-client\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-11-23T17:47:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UpdateUserRequest.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T12:09:53.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WorkerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.Designer.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\WorkerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\WorkerForm.Designer.cs",
+              "RelativeToolTip": "kursach-client\\forms\\WorkerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:20.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UserResponse.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\UserResponse.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:44:44.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserControlForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.Designer.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\UserControlForm.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\UserControlForm.Designer.cs",
+              "RelativeToolTip": "kursach-client\\forms\\UserControlForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:22:33.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProcessStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ProcessStatusForm.cs",
+              "RelativeDocumentMoniker": "kursach-client\\forms\\ProcessStatusForm.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\forms\\ProcessStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kursach-client\\forms\\ProcessStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:43:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProcessStatus.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessStatus.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\ProcessStatus.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessStatus.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\ProcessStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:57:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HttpRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\HttpRequestBuilder.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\HttpRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\HttpRequestBuilder.cs",
+              "RelativeToolTip": "kursach-client\\model\\HttpRequestBuilder.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:44:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProcessResponse.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ProcessResponse.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\ProcessResponse.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\ProcessResponse.cs",
+              "RelativeToolTip": "kursach-client\\model\\ProcessResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:48:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProcessUsage.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessUsage.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\ProcessUsage.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\ProcessUsage.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\ProcessUsage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:57:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "kursach-client\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "kursach-client\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:16:01.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "kursach-client",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\kursach-client.csproj",
+              "RelativeDocumentMoniker": "kursach-client\\kursach-client.csproj",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\kursach-client.csproj",
+              "RelativeToolTip": "kursach-client\\kursach-client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-23T16:19:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\packages.config",
+              "RelativeDocumentMoniker": "kursach-client\\packages.config",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\packages.config",
+              "RelativeToolTip": "kursach-client\\packages.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T08:13:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\SessionService.cs",
+              "RelativeDocumentMoniker": "kursach-client\\service\\SessionService.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\SessionService.cs",
+              "RelativeToolTip": "kursach-client\\service\\SessionService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:23:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProcessService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\ProcessService.cs",
+              "RelativeDocumentMoniker": "kursach-client\\service\\ProcessService.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\service\\ProcessService.cs",
+              "RelativeToolTip": "kursach-client\\service\\ProcessService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:24:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\App.config",
+              "RelativeDocumentMoniker": "kursach-client\\App.config",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\App.config",
+              "RelativeToolTip": "kursach-client\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T08:13:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "kursach-client\\model\\dto\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\andre\\Downloads\\kursach-client\\kursach-client\\model\\dto\\AuthRequest.cs",
+              "RelativeToolTip": "kursach-client\\model\\dto\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:22:50.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
